@@ -1,10 +1,9 @@
 ### Auto encoder for image reconstruction
 This repository contains code for image reconstruction using a ConvNet auto encoder model.
 
-#### Data
-
-#### Model
+#### Datase
+The training data in ./trainH are taken from (https://www.kaggle.com/sunray2333/whurs191)[whu-rs19 dataset]
 
 #### Training
 
-#### Evaluation
+#### Testing
