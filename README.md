@@ -1,5 +1,5 @@
 ### Auto encoder for image reconstruction
-This repository contains code for image reconstruction using a ConvNet auto encoder model. The model in auto_H.py takes an image and reconstrut to generate the same input image eventhough the image is different from the type of the training data. For example, the model was not trained with people images but when an input of an iimage of a person is given, the model generates it. 
+This repository contains code for image reconstruction using a ConvNet auto encoder model. The model in auto_H.py takes an image and reconstracts it and generate the same input image even though the image is different from the type of the training data. For example, the model was not trained with people images but when an input of an iimage of a person is given, the model generates it. 
 
 #### Requirements
 
