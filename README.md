@@ -16,5 +16,6 @@ This repository contains code for image reconstruction using a ConvNet auto enco
 - To test the pretrained model, set the "global_option" variable in auto_H.py file to "testH" (global_option = "testH") then run the auto_H.py file.
 - Result:
 
+![image](https://user-images.githubusercontent.com/50513215/119574838-fdcd1580-bdad-11eb-90ba-b00b8a1cf1cf.png)
 
 
