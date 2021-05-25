@@ -18,4 +18,5 @@ This repository contains code for image reconstruction using a ConvNet auto enco
 
 ![image](https://user-images.githubusercontent.com/50513215/119574838-fdcd1580-bdad-11eb-90ba-b00b8a1cf1cf.png)
 
+![image](https://user-images.githubusercontent.com/50513215/119574963-2fde7780-bdae-11eb-8db8-2e9152c2cfc6.png)
 
